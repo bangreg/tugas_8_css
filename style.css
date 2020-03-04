@@ -1,0 +1,27 @@
+body{
+  background-image: url("Stupa_Borobudur.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+div {
+  width: 700px;
+  height: 260px;
+  border: 1px solid black;
+  margin: 10 auto;
+  background-color: white;
+  float: left;
+  overflow: scroll;
+  font-weight: bold;
+}
+.satu{
+  color: blue;
+  text-align: right;
+}
+.dua{
+  color: green;
+  text-align: left;
+}
+.tiga{
+  color: red;
+  text-align: right;
+}
